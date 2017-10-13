@@ -1,0 +1,222 @@
+{
+    "frames": {
+        "gridBlank.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 512,
+                "h": 512
+            },
+            "sourceSize": {
+                "w": 512,
+                "h": 512
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "cccc.png": {
+            "frame": {
+                "x": 0,
+                "y": 514,
+                "w": 256,
+                "h": 256,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 256,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "gridBlue.png": {
+            "frame": {
+                "x": 258,
+                "y": 514,
+                "w": 256,
+                "h": 256,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 256,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "gridRed.png": {
+            "frame": {
+                "x": 514,
+                "y": 0,
+                "w": 256,
+                "h": 256,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 256,
+                "h": 256
+            },
+            "sourceSize": {
+                "w": 256,
+                "h": 256
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "horse.png": {
+            "frame": {
+                "x": 514,
+                "y": 258,
+                "w": 106,
+                "h": 102,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 106,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 106,
+                "h": 102
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "qishi2.png": {
+            "frame": {
+                "x": 514,
+                "y": 362,
+                "w": 106,
+                "h": 102,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 106,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 106,
+                "h": 102
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "chess1.png": {
+            "frame": {
+                "x": 516,
+                "y": 466,
+                "w": 102,
+                "h": 102,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 102,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 102,
+                "h": 102
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "chess2.png": {
+            "frame": {
+                "x": 620,
+                "y": 466,
+                "w": 102,
+                "h": 102,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 102,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 102,
+                "h": 102
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "qishi1.png": {
+            "frame": {
+                "x": 622,
+                "y": 258,
+                "w": 102,
+                "h": 102,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 102,
+                "h": 102
+            },
+            "sourceSize": {
+                "w": 102,
+                "h": 102
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "selected.png": {
+            "frame": {
+                "x": 622,
+                "y": 362,
+                "w": 52,
+                "h": 52,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 52,
+                "h": 52
+            },
+            "sourceSize": {
+                "w": 52,
+                "h": 52
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "game.png",
+        "prefix": "game\/"
+    }
+}

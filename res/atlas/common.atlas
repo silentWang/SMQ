@@ -1,0 +1,243 @@
+{
+    "frames": {
+        "logo.png": {
+            "frame": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 180,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 300,
+                "h": 180
+            },
+            "sourceSize": {
+                "w": 300,
+                "h": 180
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "dilagbg.png": {
+            "frame": {
+                "x": 0,
+                "y": 182,
+                "w": 204,
+                "h": 204,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 204,
+                "h": 204
+            },
+            "sourceSize": {
+                "w": 204,
+                "h": 204
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "button_cancel.png": {
+            "frame": {
+                "x": 0,
+                "y": 388,
+                "w": 214,
+                "h": 86,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 214,
+                "h": 86
+            },
+            "sourceSize": {
+                "w": 214,
+                "h": 86
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "dialogbg.png": {
+            "frame": {
+                "x": 206,
+                "y": 182,
+                "w": 132,
+                "h": 132,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 132,
+                "h": 132
+            },
+            "sourceSize": {
+                "w": 132,
+                "h": 132
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "button_common.png": {
+            "frame": {
+                "x": 216,
+                "y": 316,
+                "w": 194,
+                "h": 77,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 194,
+                "h": 77
+            },
+            "sourceSize": {
+                "w": 194,
+                "h": 77
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "同意.png": {
+            "frame": {
+                "x": 216,
+                "y": 395,
+                "w": 181,
+                "h": 78,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 78
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "拒绝.png": {
+            "frame": {
+                "x": 302,
+                "y": 0,
+                "w": 181,
+                "h": 78,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 181,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 181,
+                "h": 78
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "button_bian.png": {
+            "frame": {
+                "x": 302,
+                "y": 80,
+                "w": 152,
+                "h": 78,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 152,
+                "h": 78
+            },
+            "sourceSize": {
+                "w": 152,
+                "h": 78
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "button_yellow.png": {
+            "frame": {
+                "x": 340,
+                "y": 160,
+                "w": 136,
+                "h": 64,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 136,
+                "h": 64
+            },
+            "sourceSize": {
+                "w": 136,
+                "h": 64
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "deepDGBg.png": {
+            "frame": {
+                "x": 399,
+                "y": 395,
+                "w": 92,
+                "h": 92,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 92,
+                "h": 92
+            },
+            "sourceSize": {
+                "w": 92,
+                "h": 92
+            },
+            "rotated": false,
+            "trimed": false
+        },
+        "button_close.png": {
+            "frame": {
+                "x": 412,
+                "y": 226,
+                "w": 60,
+                "h": 60,
+                "idx": 0
+            },
+            "spriteSourceSize": {
+                "x": 0,
+                "y": 0,
+                "w": 60,
+                "h": 60
+            },
+            "sourceSize": {
+                "w": 60,
+                "h": 60
+            },
+            "rotated": false,
+            "trimed": false
+        }
+    },
+    "meta": {
+        "app": "http:\/\/www.layabox.com",
+        "version": "0.1.0 alpha",
+        "format": "json",
+        "scale": 1,
+        "image": "common.png",
+        "prefix": "common\/"
+    }
+}

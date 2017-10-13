@@ -1,0 +1,15 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "LayaApp.max.js",
+      "res/atlas/common.json",
+      "res/common/bg.png",
+      "res/atlas/game.json",
+      "res/atlas/common/num.json",
+      "common/horselogobg.png"
+    ],
+    "refer": [],
+    "priority": 0
+  }
+}
